@@ -1,0 +1,4 @@
+screen_color = (WHITE, RED, ON)
+border_color = (BLACK, WHITE, ON)
+inputbox_border_color = (BLACK, WHITE, ON)
+menubox_border_color = (BLACK, WHITE, ON)
