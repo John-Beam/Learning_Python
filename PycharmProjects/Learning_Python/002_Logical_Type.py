@@ -81,4 +81,3 @@ print(type(encoded_string))
 #Декодируем байты в Строку
 decoded_string = encoded_string.decode()
 print(decoded_string)
-"""напишу немного слов, чтобы проверить как работает комит на github из pycharm"""
